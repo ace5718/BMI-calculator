@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">A10910109</string>
+
+    <string name="Title">A10910109公司</string>
+
+    <string name="Header_1">姓名：</string>
+    <string name="Header_2">身高：</string>
+    <string name="Header_3">體重：</string>
+    <string name="Header_4">興趣：</string>
+    <string name="Header_5">性別：</string>
+
+    <string name="ChkContent_1">游泳</string>
+    <string name="ChkContent_2">路跑</string>
+
+    <string name="RadContent_1">女</string>
+    <string name="RadContent_2">男</string>
+    <string name="RadContent_3">不提供</string>
+
+    <string name="BtnContent_1">檢視</string>
+    <string name="BtnContent_2">BMI</string>
+</resources>
